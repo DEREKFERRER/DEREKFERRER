@@ -19,5 +19,8 @@
 <img align="left" alt="Tailwindcss" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/tailwindcss/tailwindcss-plain.svg" />
 <img align="left" alt="VisualCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/vscode/vscode-original.svg" />
 #
+
+###
 <p>Simple Project</p>
-<img align="left" alt="landingpage" width="100px" style="padding-right:10px;" src="https://derekferrer.github.io/newlandingpage/" />
+<a href="https://derekferrer.github.io/newlandingpage/">newlandingpage</a>
+#
