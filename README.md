@@ -1,5 +1,5 @@
 # Roderick-Ferrer
-- 👋 Hi, I’m Roderick
+- 👋 Hi, I’m Roderick, you can call me "DEREK".
 
 - 👀 I’m interested in ... AI, Machine Learning, Web development and mobile development 
 
