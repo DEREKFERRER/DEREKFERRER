@@ -1,4 +1,4 @@
- <h2 align="center">Hi 👋, I'm Rishav Chanda</h2>
+ <h1>👋 Hi, I’m Roderick, you can call me "DEREK"</h1>
 
 - 👀 I’m interested in ... AI, Machine Learning, Web development and mobile development 
 
