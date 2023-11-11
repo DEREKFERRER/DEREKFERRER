@@ -1,8 +1,6 @@
  <h1>👋 Hi, I’m Roderick</h1>
 
-- 👀 I’m interested in ... AI, Machine Learning, Web development and mobile development 
-
-- 🌱 I’m currently learning a ...  HTML, CSS, Javascript, C, JAVA and SQL.  
+- 👀 I’m interested in ... AI, Machine Learning, Web development and mobile development  
 
 - 📫 How to reach me ... www.linkedin.com/in/roderickferrer
 
