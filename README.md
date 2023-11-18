@@ -5,6 +5,7 @@
 - 📫 How to reach me ... www.linkedin.com/in/roderickferrer
 
 ### Languages and Tools
+<div>
 <p>Web</p>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
@@ -16,8 +17,7 @@
 <img align="left" alt="VisualCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/vscode/vscode-original.svg" />
 <img align="left" alt="NPM" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/npm/npm-original-wordmark.svg" />
 <img align="left" alt="Nodejs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/nodejs/nodejs-original.svg" />
-<br/>
-
+</div>
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/c/c-original.svg" />
