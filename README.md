@@ -32,9 +32,9 @@
 
 #
 
-### Simple Project
+<!--### Simple Project
 
 <a href="https://derekferrer.github.io/newlandingpage/">newlandingpage</a> |
 <a href="https://derekferrer.github.io/result-summary/">result-summary</a> |
-<a href="https://derekferrer.github.io/product-preview-card-component-main/">product-preview-card-component-main</a>
+<a href="https://derekferrer.github.io/product-preview-card-component-main/">product-preview-card-component-main</a>-->
 
