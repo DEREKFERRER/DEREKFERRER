@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in ... AI, Machine Learning, Web development and mobile development  
 
-- 📫 How to reach me ... www.linkedin.com/in/roderickferrer
+- 📫 How to reach me ... www.linkedin.com/in/roderickferrer || froderick663@gmail.com
 
 ### Languages and Tools
 
