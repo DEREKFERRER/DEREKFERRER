@@ -1,4 +1,4 @@
- <h1>👋 Hi, I’m Roderick</h1>
+ <h1>👋 Hi, I’m Roderick Ferrer </h1>
 
 - 👀 I’m interested in AI, Machine Learning, Web development and mobile development  
 
