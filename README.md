@@ -3,6 +3,7 @@
 - 👀 I’m interested in AI, Machine Learning, Web development and mobile development  
 
 - 📫 You can reach me in www.linkedin.com/in/roderickferrer and froderick663@gmail.com
+- Check out my portfolio! 
 
 ### Languages and Tools
 
