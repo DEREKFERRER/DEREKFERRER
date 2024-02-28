@@ -32,8 +32,10 @@
 <!--<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/postgresql/postgresql-original-wordmark.svg" />-->
 </div>
 
+<div>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEREKFERRER)](https://github.com/DEREKFERRER/github-readme-stats)
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEREKFERRER)](https://github.com/DEREKFERRER/github-readme-stats)
 
 
 #
