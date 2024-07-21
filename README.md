@@ -1,6 +1,6 @@
  <h1>👋 Hi, I’m Roderick Ferrer </h1>
 
-- 👀 I’m interested in AI, Machine Learning, Web development and mobile development  
+- 👀 I’m interested in Front-end Development, back-end Development, and Web development   
 
 - 📫 You can reach me in www.linkedin.com/in/roderickferrer and froderick663@gmail.com
 - Check out my portfolio! 
