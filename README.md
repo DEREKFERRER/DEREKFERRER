@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Front-end Development, back-end Development, and Web development   
 
-- 📫 You can reach me in www.linkedin.com/in/roderickferrer and froderick663@gmail.com
+- 📫 You can reach me in www.linkedin.com/in/roderickferrer
 - Check out my portfolio! 
 
 ### Languages and Tools
@@ -29,7 +29,7 @@
 <img align="left" alt="NPM" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/npm/npm-original-wordmark.svg" />
 <img align="left" alt="Nodejs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/express/express-original-wordmark.svg" />
-<!--<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/postgresql/postgresql-original-wordmark.svg" />-->
+<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/postgresql/postgresql-original-wordmark.svg" />
 <br/>
 <br/>
 
