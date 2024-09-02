@@ -3,7 +3,7 @@
 - 👀 I’m interested in Front-end Development, back-end Development, and Web development   
 
 - 📫 You can reach me in www.linkedin.com/in/roderickferrer
-- Check out my portfolio! 
+- Check out my portfolio! -> https://dk-portfolio06.netlify.app/
 
 ### Languages and Tools
 
@@ -39,14 +39,4 @@
 
 
 
-
-
-
-
-
-<!--### Simple Project
-
-<a href="https://derekferrer.github.io/newlandingpage/">newlandingpage</a> |
-<a href="https://derekferrer.github.io/result-summary/">result-summary</a> |
-<a href="https://derekferrer.github.io/product-preview-card-component-main/">product-preview-card-component-main</a>-->
 
