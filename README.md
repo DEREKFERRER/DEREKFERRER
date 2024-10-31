@@ -1,3 +1,5 @@
+[![An image of @derekferrer's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/derekferrer)](https://holopin.io/@derekferrer)
+
  <h1>👋 Hi, I’m Roderick Ferrer </h1>
 
 - 👀 I’m interested in Front-end Development, back-end Development, and Web development   
@@ -38,5 +40,5 @@
 #
 
 
-[![An image of @derekferrer's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/derekferrer)](https://holopin.io/@derekferrer)
+
 
