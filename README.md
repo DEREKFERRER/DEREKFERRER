@@ -7,7 +7,7 @@
 - 📫 You can reach me in www.linkedin.com/in/roderickferrer
 - Check out my portfolio! -> https://dk-portfolio06.netlify.app/
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=DEREKFERRER)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=DEREKFERRER&color=red&abbreviated=true)
 
 ### Languages and Tools
 
