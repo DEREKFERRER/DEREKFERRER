@@ -5,7 +5,7 @@
 - 👀 I’m interested in Front-end Development, back-end Development, and Web development   
 
 - 📫 You can reach me in www.linkedin.com/in/roderickferrer
-- Check out my portfolio! -> https://dk-portfolio06.netlify.app/
+- Check out my portfolio! -> https://dk06-portfolio.vercel.app/
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=DEREKFERRER&color=red&abbreviated=true)
 
