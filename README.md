@@ -37,7 +37,7 @@
 <br/>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEREKFERRER)](https://github.com/DEREKFERRER/github-readme-stats)
+/*[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEREKFERRER)](https://github.com/DEREKFERRER/github-readme-stats)*/
 </div>
 #
 
