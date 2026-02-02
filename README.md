@@ -3,9 +3,9 @@
  <h1>👋 Hi, I’m Roderick Ferrer </h1>
 
 - 👀 I’m interested in Front-end Development, back-end Development, and Web development   
-
 - 📫 You can reach me in www.linkedin.com/in/roderickferrer
 - Check out my portfolio! -> https://www.derekferrer.site/
+- Currently learning: Typescript and Docker
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=DEREKFERRER&color=red&abbreviated=true)
 
